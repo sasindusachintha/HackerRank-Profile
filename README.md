@@ -4,7 +4,7 @@ Welcome! 👋
 
 ## HackerRank Profile
 Check out my coding skills and badges on HackerRank:
-[https://www.hackerrank.com/yourusername](https://www.hackerrank.com/profile/sasindusachintha1)
+[Check out my HackerRank Profile](https://www.hackerrank.com/profile/sasindusachintha1)
 ---
 
 ## About Me
