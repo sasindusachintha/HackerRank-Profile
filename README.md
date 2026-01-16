@@ -21,3 +21,5 @@ Or visit my full profile:
 [![Java Badge](https://www.hackerrank.com/badges/java.svg)](https://www.hackerrank.com/sasindusachintha1)
 [![Python Badge](https://www.hackerrank.com/badges/python.svg)](https://www.hackerrank.com/sasindusachintha1)
 [![C++ Badge](https://www.hackerrank.com/badges/cpp.svg)](https://www.hackerrank.com/sasindusachintha1)
+![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&logoColor=white)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sasindusachintha1)
