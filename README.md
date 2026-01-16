@@ -7,9 +7,6 @@ Check out my coding skills and badges on HackerRank:
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sasindusachintha1)
 
-Or visit my full profile:  
-[https://www.hackerrank.com/yourusername](https://www.hackerrank.com/profile/sasindusachinth1)
-
 ---
 
 ## About Me
