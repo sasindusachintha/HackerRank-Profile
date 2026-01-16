@@ -5,8 +5,8 @@ Welcome! 👋
 ## HackerRank Profile
 Check out my coding skills and badges on HackerRank:  
 
-Check out my coding skills and badges on HackerRank: 
-<a href="https://www.hackerrank.com/profile/sasindusachintha1" target="_blank">Click here</a>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sasindusachintha1)
+
 
 
 
