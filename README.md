@@ -3,8 +3,9 @@
 Welcome! 👋
 
 ## HackerRank Profile
+Check out my coding skills and badges on HackerRank:  
 
-[Check out my coding skills and badges on HackerRank](https://www.hackerrank.com/profile/sasindusachintha1)
+[Check out my HackerRank profile](https://www.hackerrank.com/profile/sasindusachintha1)
 
 ---
 
