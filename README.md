@@ -16,3 +16,8 @@ Or visit my full profile:
 - Competitive programming enthusiast
 - Languages: C++, Java, SQL
 - Focused on improving problem-solving and algorithms
+
+## Badges
+[![Java Badge](https://www.hackerrank.com/badges/java.svg)](https://www.hackerrank.com/sasindusachintha1)
+[![Python Badge](https://www.hackerrank.com/badges/python.svg)](https://www.hackerrank.com/sasindusachintha1)
+[![C++ Badge](https://www.hackerrank.com/badges/cpp.svg)](https://www.hackerrank.com/sasindusachintha1)
