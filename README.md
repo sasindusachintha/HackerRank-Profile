@@ -22,6 +22,6 @@ Or visit my full profile:
 [![Python Badge](https://www.hackerrank.com/badges/python.svg)](https://www.hackerrank.com/sasindusachintha1)
 [![C++ Badge](https://www.hackerrank.com/badges/cpp.svg)](https://www.hackerrank.com/sasindusachintha1)
 
-[![C++](https://img.shields.io/badge/C++-HackerRank-blue?logo=c%2B%2B&logoColor=white)](https://www.hackerrank.com/sasindusachintha1)
+[![C++](https://img.shields.io/badge/C++-HackerRank-blue?logo=c%2B%2B&logoColor=white)](https://www.hackerrank.com/profile/sasindusachintha1)
 [![Java](https://img.shields.io/badge/Java-HackerRank-red?logo=java&logoColor=white)](https://www.hackerrank.com/sasindusachintha1)
 [![Python](https://img.shields.io/badge/Python-HackerRank-yellow?logo=python&logoColor=blue)](https://www.hackerrank.com/sasindusachintha1)
