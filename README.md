@@ -3,8 +3,8 @@
 Welcome! 👋
 
 ## HackerRank Profile
-Check out my coding skills and badges on HackerRank
-[![C++](https://img.shields.io/badge/C++-HackerRank-blue?logo=c%2B%2B&logoColor=white)](https://www.hackerrank.com/profile/sasindusachinth1)
+
+[(Check out my coding skills and badges on HackerRank)](https://www.hackerrank.com/profile/sasindusachinth1)
 
 
 
