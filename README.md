@@ -4,11 +4,7 @@ Welcome! 👋
 
 ## HackerRank Profile
 Check out my coding skills and badges on HackerRank:  
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sasindusachintha1)
-
-
-
+[![C++](https://img.shields.io/badge/C++-HackerRank-blue?logo=c%2B%2B&logoColor=white)](https://www.hackerrank.com/profile/sasindusachintha1)
 
 ---
 
